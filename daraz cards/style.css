@@ -1,0 +1,127 @@
+.flex-container {
+   display: flex;
+}
+.d1{
+   display: flex;
+}
+.d2{
+   display: flex;
+}
+.d3{
+   display: flex;
+}
+.d4{
+   display: flex;
+}
+
+ .m1:hover{
+   background-color: rgb(255, 255, 255);
+   box-shadow: 1px 1px 1px 1px rgba(119, 134, 119, 0.801);
+}
+.m2:hover{
+   background-color: rgb(255, 255, 255);
+   box-shadow: 1px 1px 1px 1px rgba(119, 134, 119, 0.801);
+}
+.m3:hover{
+   background-color: rgb(255, 255, 255);
+   box-shadow: 1px 1px 1px 1px rgba(119, 134, 119, 0.801);
+}
+.m4:hover{
+   background-color: rgb(255, 255, 255);
+   box-shadow: 1px 1px 1px 1px rgba(119, 134, 119, 0.801);
+}
+.m5:hover{
+   background-color: rgb(255, 255, 255);
+   box-shadow: 1px 1px 1px 1px rgba(119, 134, 119, 0.801);
+}
+.m6:hover{
+   background-color: rgb(255, 255, 255);
+   box-shadow: 1px 1px 1px 1px rgba(119, 134, 119, 0.801);
+}
+.m7:hover{
+   background-color: rgb(255, 255, 255);
+   box-shadow: 1px 1px 1px 1px rgba(119, 134, 119, 0.801);
+}
+.m8:hover{
+   background-color: rgb(255, 255, 255);
+   box-shadow: 1px 1px 1px 1px rgba(119, 134, 119, 0.801);
+}
+.m9:hover{
+   background-color: rgb(255, 255, 255);
+   box-shadow: 1px 1px 1px 1px rgba(119, 134, 119, 0.801);
+}
+.m10:hover{
+   background-color: rgb(255, 255, 255);
+   box-shadow: 1px 1px 1px 1px rgba(119, 134, 119, 0.801);
+}
+.m11:hover{
+   background-color: rgb(255, 255, 255);
+   box-shadow: 1px 1px 1px 1px rgba(119, 134, 119, 0.801);
+}
+.m12:hover{
+   background-color: rgb(255, 255, 255);
+   box-shadow: 1px 1px 1px 1px rgba(119, 134, 119, 0.801);
+}
+.m13:hover{
+   background-color: rgb(255, 255, 255);
+   box-shadow: 1px 1px 1px 1px rgba(119, 134, 119, 0.801);
+}
+.m14:hover{
+   background-color: rgb(255, 255, 255);
+   box-shadow: 1px 1px 1px 1px rgba(119, 134, 119, 0.801);
+}
+.m15:hover{
+   background-color: rgb(255, 255, 255);
+   box-shadow: 1px 1px 1px 1px rgba(119, 134, 119, 0.801);
+}
+.m16:hover{
+   background-color: rgb(255, 255, 255);
+   box-shadow: 1px 1px 1px 1px rgba(119, 134, 119, 0.801);
+}
+.m17:hover{
+   background-color: rgb(255, 255, 255);
+   box-shadow: 1px 1px 1px 1px rgba(119, 134, 119, 0.801);
+}
+.m18:hover{
+   background-color: rgb(255, 255, 255);
+   box-shadow: 1px 1px 1px 1px rgba(119, 134, 119, 0.801);
+}
+.m19:hover{
+   background-color: rgb(255, 255, 255);
+   box-shadow: 1px 1px 1px 1px rgba(119, 134, 119, 0.801);
+}
+.m20:hover{
+   background-color: rgb(255, 255, 255);
+   box-shadow: 1px 1px 1px 1px rgba(119, 134, 119, 0.801);
+}
+.m21:hover{
+   background-color: rgb(255, 255, 255);
+   box-shadow: 1px 1px 1px 1px rgba(119, 134, 119, 0.801);
+}
+.m22:hover{
+   background-color: rgb(255, 255, 255);
+   box-shadow: 1px 1px 1px 1px rgba(119, 134, 119, 0.801);
+}
+.m24:hover{
+   background-color: rgb(255, 255, 255);
+   box-shadow: 1px 1px 1px 1px rgba(119, 134, 119, 0.801);
+}
+.m25:hover{
+   background-color: rgb(255, 255, 255);
+   box-shadow: 1px 1px 1px 1px rgba(119, 134, 119, 0.801);
+}
+
+.b1{
+   font-family: Roboto-Medium;
+   margin: 0 auto;
+   display: block;
+   width: 387px;
+   height: 40px;
+   line-height: 40px;
+   text-align: center;
+   font-size: 14px;
+   color: #1a9cb8;
+   border: 1px solid #1a9cb8;
+   text-transform: uppercase;
+   cursor: pointer;
+}
